@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+
+# Hugo
+event/
+home-archive/
+posts/
+project/
+publication/
+publication_types/
+publication-type/
+slides/
+talk/
